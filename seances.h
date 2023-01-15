@@ -1,0 +1,6 @@
+#ifndef SEANCES_H_INCLUDED
+#define SEANCES_H_INCLUDED
+
+
+
+#endif // SEANCES_H_INCLUDED

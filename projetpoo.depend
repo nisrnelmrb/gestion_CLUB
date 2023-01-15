@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1673706211 source:c:\users\nisrine-pc\desktop\projetpoo\projetpoo\inscription.cpp
+	<iostream>
+	<vector>
+	"inscription.h"
+
+1673649639 c:\users\nisrine-pc\desktop\projetpoo\projetpoo\inscription.h
+
+1673706276 source:c:\users\nisrine-pc\desktop\projetpoo\projetpoo\main.cpp
+	<iostream>
+	<vector>
+	"inscription.h"
+
+1673725510 source:c:\users\nisrine-pc\desktop\projetpoo\projetpoo\adherent.cpp
+
+1673724985 source:c:\users\nisrine-pc\desktop\projetpoo\projetpoo\entraineur.cpp
+
+1673725064 source:c:\users\nisrine-pc\desktop\projetpoo\projetpoo\equipe.cpp
+
+1673725031 source:c:\users\nisrine-pc\desktop\projetpoo\projetpoo\equipement.cpp
+
+1673725158 source:c:\users\nisrine-pc\desktop\projetpoo\projetpoo\seance.cpp
+
+1673725111 source:c:\users\nisrine-pc\desktop\projetpoo\projetpoo\sport.cpp
+
+1673726874 source:c:\users\nisrine-pc\desktop\projetpoo\projetpoo\helpers.cpp
+	<iostream>
+	<vector>
+	<string>
+
